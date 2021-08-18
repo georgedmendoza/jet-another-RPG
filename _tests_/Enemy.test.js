@@ -1,5 +1,3 @@
-const { test, expect } = require('@jest/globals');
-const { stringContaining } = require('expect');
 const Enemy = require('../lib/Enemy.js')
 const Potion = require('../lib/Potion')
 
